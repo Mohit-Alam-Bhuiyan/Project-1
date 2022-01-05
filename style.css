@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.mission-color {
+    color: #757bc8;
+}
+
+.box-color {
+    border-left: 5px solid #5a189a;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-size: 40px;
+    margin: auto;
+}
+
+
+#first-part {
+    display: flex;
+    padding-top: 60px;
+    padding-top: 60px;
+}
+
+.learn{
+    font-size: 20px;
+}
+.focused-on{
+      width: 50%;
+      padding-left: 10%;
+
+}
+
+.focused-on img {
+    width: 80%;
+    padding-right: 50%;
+    
+}
+
+.focused-on button {
+    padding: 20px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #6247aa ;
+    color: white;
+    border: none;
+    margin-bottom: 40px;
+}
