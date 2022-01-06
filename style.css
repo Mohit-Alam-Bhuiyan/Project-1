@@ -24,13 +24,14 @@ body{
 .learn{
     font-size: 20px;
 }
+
 .focused-on{
       width: 50%;
       padding-left: 10%;
 
 }
 
-.focused-on img {
+.focused-on img{
     width: 80%;
     padding-right: 50%;
     
@@ -62,7 +63,7 @@ body{
     color: #757bc8;
 }
 
-.three-goals {
+.three-goals{
     display: flex;
 }
 
@@ -98,4 +99,91 @@ body{
 
 .three-goals{
     margin-bottom: 100px;
+}
+
+#dev-color{
+    color: #757bc8;
+}
+.without-limits{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.develop{
+    width: 50%;
+    padding-right: 350px;
+}
+
+
+.pic-mic img{
+    width: 70%;
+    padding-left: 142px;
+  }
+
+.develop h1 {
+    font-size:50px;
+    color: #3f3e3e;
+
+}
+
+.develop p {
+    font-size: 25px;
+}
+
+.develop button {
+    padding: 20px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #6247aa ;
+    color: white;
+    border: none;
+    margin-bottom: 40px;
+}
+
+
+
+.global{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#glob_color{
+    color: #757bc8;
+}
+
+
+.know h1 {
+    font-size:50px;
+    color: #3f3e3e;
+}
+
+.know p {
+    font-size: 25px;
+}
+
+
+.know{
+    width: 50%;
+    padding-left: 142px;
+}
+
+
+.commu-pic img{
+    width: 60%;
+    padding-left: 100px;
+  }
+
+
+  .know button {
+    padding: 20px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #6247aa ;
+    color: white;
+    border: none;
+    margin-bottom: 40px;
 }
